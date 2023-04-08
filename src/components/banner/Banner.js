@@ -57,9 +57,9 @@ const Banner = () => {
           </div>
         </div>
       </div>
-      <div className="w-full lgl:w-1/2 flex justify-center items-center relative" >
+      {/*<div className="w-full lgl:w-1/2 flex justify-center items-center relative" >
         <img className=" z-10 rounded-3xl" src={MyProfile} alt="MyProfile" />
-      </div>
+  </div>*/}
     </section>
   );
 };

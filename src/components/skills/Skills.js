@@ -14,7 +14,7 @@ import Card from './Card';
 const Skills = () => {
   return (
     <section id='skills' className='w-full  py-20 border-b-[1px] border-b-black'>
-      <Title title="Skills" des="Best Skills On"/>
+      <Title title="" des="Best Skills On"/>
       <div className='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6 xl:gap-20'>
         <Card
          title="Html"
