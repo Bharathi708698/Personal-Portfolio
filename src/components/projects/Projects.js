@@ -28,7 +28,7 @@ const Projects = () => {
           <ProjectCard
            title="Chat Bot"
            gitlink='https://github.com/Bharathi708698/ChatBot'
-           weblink=""
+           weblink="https://bharathichatbot.netlify.app"
            src={Project1}
           />
           <ProjectCard
