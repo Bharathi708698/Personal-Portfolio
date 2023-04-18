@@ -26,15 +26,15 @@ const Projects = () => {
           src={Project2}
           />
           <ProjectCard
-           title="React Dashboard"
-           gitlink='https://github.com/Bharathi708698/React-Dashboard'
-           weblink="https://bharathiadmindashboard.netlify.app/"
+           title="Chat Bot"
+           gitlink='https://github.com/Bharathi708698/ChatBot'
+           weblink="hhttps://bharathichatbot.netlify.app"
            src={Project1}
           />
           <ProjectCard
-          title="Task"
-          gitlink='https://github.com/Bharathi708698/task1'
-          weblink='https://bharathitask1.netlify.app/'          
+          title="Chat Application"
+          gitlink='https://github.com/Bharathi708698/Chat-Application'
+          weblink='https://bharathichatapp.netlify.app'          
           src={Project4}
           />
         </div>
