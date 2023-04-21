@@ -32,7 +32,7 @@ const Projects = () => {
            src={Project1}
           />
           <ProjectCard
-          title="Chat Application"
+          title="Chat Application Web"
           gitlink='https://github.com/Bharathi708698/Chat-Application'
           weblink='https://bharathichatapp.netlify.app'          
           src={Project4}
